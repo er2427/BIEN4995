@@ -1,0 +1,5 @@
+VNA URL: https://hackathon.siim.org/dicom-web/studies/
+API Key: None
+Modalities: {'XC': True, '//': 'other', 'CT': True, 'MR': True, 'PT': True, 'NM': True, 'MG': True, 'OP': True, 'OPT': True, 'CTPT': True, 'OMA': True, 'CR': True, 'KO': True, 'PR': True, 'OT': True}
+Start Time: None
+End Time: None

@@ -1,7 +1,7 @@
 {
     "options": { 
         "vna_url" : "https://hackathon.siim.org/dicom-web/studies/",
-        "api_key" : "a128c88d-8ed5-453a-8331-a10bbf774ff4"
+        "api_key" : "7d46b0aa-6351-4d5f-9a80-29532ae872d9"
     },
 
     "query": {
