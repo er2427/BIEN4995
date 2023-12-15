@@ -1,0 +1,30 @@
+{
+    "options": { 
+        "vna_url" : "https://hackathon.siim.org/dicom-web/studies/",
+        "api_key" : "a128c88d-8ed5-453a-8331-a10bbf774ff4"
+    },
+
+    "query": {
+        "start_time": "09:00:00",
+        "end_time": "10:00:00"
+    }, 
+
+    "modalities": {
+        "XC": true, "//": "external camera",
+        "CT": true, "//": "computer tomography",
+        "MR": true, "//": "Magnetic resonance",
+        "PT": true, "//": "pet",
+        
+        "NM": true, "//": "nuclear medicine",
+        "MG": true, "//": "mamagram",
+        "OP": true, "//": "mamagram",
+        "OPT": true, "//": "Ophthalmic Photography",
+        "CTPT": true, "//": "not on list",
+        "OMA": true, "//": "not on list",
+        "CR": true,  "//": "computer radiography",
+        "KO": true, "//": "not on list",
+        "PR": true, "//": "presentation state",
+        "OT": true, "//": "other"
+    }
+    
+}
